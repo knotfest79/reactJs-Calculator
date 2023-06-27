@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/knotfest79/knotfest79.github.io.git/static/css/main.00171c7e.css",
+    "main.js": "/knotfest79/knotfest79.github.io.git/static/js/main.9e33d587.js",
+    "index.html": "/knotfest79/knotfest79.github.io.git/index.html",
+    "main.00171c7e.css.map": "/knotfest79/knotfest79.github.io.git/static/css/main.00171c7e.css.map",
+    "main.9e33d587.js.map": "/knotfest79/knotfest79.github.io.git/static/js/main.9e33d587.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00171c7e.css",
+    "static/js/main.9e33d587.js"
+  ]
+}
